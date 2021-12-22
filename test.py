@@ -9,4 +9,4 @@ print('welcome to my world!')
 for i in range(1, 10):
 	print(i)
 	
-print("dev功能测试--50%")
+print("dev功能测试--100%")

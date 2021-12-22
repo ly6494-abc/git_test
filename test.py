@@ -5,3 +5,7 @@ data = requests.get(url).content.decode("utf-8")
 print(data)
 
 print('welcome to my world!')
+
+for i in range(1, 10):
+	print(i)
+	
